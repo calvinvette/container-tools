@@ -1,0 +1,21 @@
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:calvinvette/kubernetes
+[submodule "cri-o"]
+	path = cri-o
+	url = git@github.com:calvinvette/cri-o
+[submodule "podman"]
+	path = podman
+	url = git@github.com:calvinvette/podman
+[submodule "skopeo"]
+	path = skopeo
+	url = git@github.com:calvinvette/skopeo
+[submodule "containerd"]
+	path = containerd
+	url = git@github.com:calvinvette/containerd
+[submodule "runc"]
+	path = runc
+	url = git@github.com:calvinvette/runc
+[submodule "crun"]
+	path = crun
+	url = git@github.com:calvinvette/crun
